@@ -60,6 +60,7 @@ h1, h2, h3, h4, h5 {
     font-size: 18px;
     margin-bottom: 15px;
     font-family: 'Rubik', sans-serif;
+    margin-top: 10px;
 }
 
 p {
@@ -143,4 +144,165 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+
+header nav a{
+    text-decoration: none;
+    color: black;
+}
+
+.header{
+    display:flex; 
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-bottom: 3%;
+    margin-right: 7%;
+}
+
+.box1{
+    width: 12.5%;
+    height: 100px;
+    background: teal;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box2{
+    width: 12.5%;
+    height: 100px;
+    background: gold;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box3{
+    width: 12.5%;
+    height: 100px;
+    background: cadetblue;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box4{
+    width: 12.5%;
+    height: 100px;
+    background: coral;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box5{
+    width: 12.5%;
+    height: 100px;
+    background: crimson;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box6{
+    width: 12.5%;
+    height: 100px;
+    background: forestgreen;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box7{
+    width: 12.5%;
+    height: 100px;
+    background: darkorchid;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box8{
+    width: 12.5%;
+    height: 100px;
+    background: hotpink;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box9{
+    width: 12.5%;
+    height: 100px;
+    background: indigo;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box10{
+    width: 12.5%;
+    height: 100px;
+    background: dodgerblue;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.learn{
+    width: 100px;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 7px;
+    text-align: center;
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+.row{
+    display: flex;
+    width: 800px;
+    justify-content: space-between;
+    align-items: row;
+    justify-content: space-between;
+    padding-left: 2%;
+
+}
+
+.about{
+    padding-left: 2%;
+    border-bottom: dashed;
+    border-width: 1px;
+    margin-bottom: 3%;
+}
+
+.border{
+    border-bottom: dashed;
+    border-width: 1px;
+    width: 450px;
+    margin-right: 25px;
+}
+
+.together{
+    padding-left: 2%;
 }
